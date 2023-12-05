@@ -1,0 +1,14 @@
+C:\Atilla\Atilla-A1\bin\Debug\net7.0\Atilla-A1.exe
+C:\Atilla\Atilla-A1\bin\Debug\net7.0\Atilla-A1.deps.json
+C:\Atilla\Atilla-A1\bin\Debug\net7.0\Atilla-A1.runtimeconfig.json
+C:\Atilla\Atilla-A1\bin\Debug\net7.0\Atilla-A1.dll
+C:\Atilla\Atilla-A1\bin\Debug\net7.0\Atilla-A1.pdb
+C:\Atilla\Atilla-A1\obj\Debug\net7.0\Atilla-A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Atilla\Atilla-A1\obj\Debug\net7.0\Atilla-A1.AssemblyInfoInputs.cache
+C:\Atilla\Atilla-A1\obj\Debug\net7.0\Atilla-A1.AssemblyInfo.cs
+C:\Atilla\Atilla-A1\obj\Debug\net7.0\Atilla-A1.csproj.CoreCompileInputs.cache
+C:\Atilla\Atilla-A1\obj\Debug\net7.0\Atilla-A1.dll
+C:\Atilla\Atilla-A1\obj\Debug\net7.0\refint\Atilla-A1.dll
+C:\Atilla\Atilla-A1\obj\Debug\net7.0\Atilla-A1.pdb
+C:\Atilla\Atilla-A1\obj\Debug\net7.0\Atilla-A1.genruntimeconfig.cache
+C:\Atilla\Atilla-A1\obj\Debug\net7.0\ref\Atilla-A1.dll
